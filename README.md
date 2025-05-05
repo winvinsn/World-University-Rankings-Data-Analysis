@@ -10,14 +10,14 @@ This data analysis explores the **QS World University Rankings 2025**, covering 
 The goal is to extract meaningful insights to help students, universities, policymakers, and administrators make informed decisions about higher education institutions.
 
 ## Authors:
-👨‍💻: **Nguyen Ngo, Josh Ilko**
-📚 **Course**: Data Science 220 - Data Management for Data Sciences
-🏫 **Institution**: Penn State University
+- 👨‍💻: **Nguyen Ngo, Josh Ilko**
+- 📚 **Course**: Data Science 220 - Data Management for Data Sciences
+- 🏫 **Institution**: Penn State University
 
 ## Dataset Details:
 📂 **Source**: [Kaggle - QS World University Rankings 2025]([url](https://www.kaggle.com/datasets/melissamonfared/qs-world-university-rankings-2025/data))
-📊 **Dimensions**: df.shape - 1,503 rows × 28 columns
-🔍 **Key Features**:
+-📊 **Dimensions**: df.shape - 1,503 rows × 28 columns
+- 🔍 **Key Features**:
 
 rank_2025, rank_2024
 
