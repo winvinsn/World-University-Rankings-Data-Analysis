@@ -15,7 +15,7 @@ The goal is to extract meaningful insights to help students, universities, polic
 - 🏫 **Institution**: Penn State University
 
 ## Dataset Details:
-📂 **Source**: [Kaggle - QS World University Rankings 2025]([url](https://www.kaggle.com/datasets/melissamonfared/qs-world-university-rankings-2025/data))
+- 📂 **Source**: [Kaggle - QS World University Rankings 2025]([url](https://www.kaggle.com/datasets/melissamonfared/qs-world-university-rankings-2025/data))
 -📊 **Dimensions**: df.shape - 1,503 rows × 28 columns
 - 🔍 **Key Features**:
 
