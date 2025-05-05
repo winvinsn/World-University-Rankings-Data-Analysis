@@ -60,9 +60,11 @@ international_students_pct, overall_score
   - Bar Chart, Box Plot, Scatter Plot
 6. **Conclusion**:
   - Highlight key findings
+
     
 ## Tools & Libraries:
 **Python, Pandas, Matplotlib, NumPy**
+
 
 ## Key Insights:
 1. ✅ **Top Countries**: The U.S. and U.K. lead the top 100.
