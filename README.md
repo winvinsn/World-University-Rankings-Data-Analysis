@@ -50,7 +50,7 @@ international_students_pct, overall_score
   - Check for inconsistencies
 3. **Data Cleaning**:
   - Standardize column names
-  - Handle missing data (dropna(), fillna()
+  - Handle missing data (dropna(), fillna())
   - Convert rankings to numeric values
 4. **Data Analysis**:
   - Filtering data
