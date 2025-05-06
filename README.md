@@ -19,7 +19,7 @@ The goal is to extract meaningful insights to help students, universities, polic
 - 📊 **Dimensions**: df.shape - 1,503 rows × 28 columns
 - 🔍 **Key Features**:
 
-rank_2025, rank_2024
+rank_2025, rank_2024 
 
 institution_name, location, region
 
